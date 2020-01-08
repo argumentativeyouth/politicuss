@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: full-width
 title:  "Welcome To Politicus"
 date:   2020-01-08 11:04:01
 categories: post
